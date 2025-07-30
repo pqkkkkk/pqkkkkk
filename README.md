@@ -29,7 +29,7 @@ My name is Pham Quoc Kiet. I'm a passionate back-end engineer. I love building i
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pqkkkkk&repo=AIShortVideoCreator-server&theme=radical" />
 </a>
 <a href="https://github.com/pqkkkkk/ticsys-microservice">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pqkkkkk&repo=ticsys-microservicetheme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pqkkkkk&repo=ticsys-microservice&theme=radical" />
 </a>
 <a href="https://github.com/pqkkkkk/TicSys-server">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pqkkkkk&repo=TicSys-server&theme=radical" />
